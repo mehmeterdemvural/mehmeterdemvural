@@ -1,2 +1,2 @@
-- 👋 Hi, I’m Mehmet Erdem. I am a lawyer trying to learn coding.
-- 🌱 I’m currently learning HTML, CSS, and JavaScript.
+- 👋 Hi, I’m Mehmet Erdem. I am a Full Stack Developer who is ex-lawyer.
+- 🌱 I’m currently coding with JavaScript.
