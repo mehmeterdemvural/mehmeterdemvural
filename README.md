@@ -1,2 +1,2 @@
-- 👋 Hi, I’m Mehmet Erdem. I am a Full Stack Developer who is ex-lawyer.
+- 👋 Hi, I’m Mehmet Erdem. I'm a Full Stack Developer who is ex-lawyer.
 - 🌱 I’m currently coding with JavaScript.
