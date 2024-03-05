@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mehmet Erdem. I'm a Full Stack Developer who is ex-lawyer.</h1>
+<h1 align="center">Hi 👋, I'm Mehmet Erdem. I'm a Full Stack Developer.</h1>
 <h3 align="center">A passionate Full Stack Developer from Turkey.</h3>
 
 - 🌱 I’m currently coding **with JavaScript.**
